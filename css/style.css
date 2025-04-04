@@ -1,4 +1,5 @@
 @import url('section-1.css');
+@import url('section-2.css');
 
 body {
   font-family: "Lato", sans-serif;
@@ -11,8 +12,7 @@ body {
 }
 
 h1,
-h2,
-h3 {
+h2 {
   font-family: "Lora", serif;
 }
 
